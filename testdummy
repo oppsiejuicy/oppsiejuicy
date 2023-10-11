@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<style>
+    body{
+        margin: 0px;
+        margin-right: 0px;
+        margin-left: 0px;
+        background-image: none;
+        position: relative;
+        left: -0px;
+        width: 1366px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: left;
+        height:100%;
+    }
+    #image {
+        width: 426px;
+        height: 150px;
+        box-sizing: border-box;
+    }
+    #übersicht-der-wartun {
+        width: 451px;
+        height: 37px;
+        background-color: rgba(255, 255, 255, 0);
+        box-sizing: border-box;
+        font-family: "Arial", sans-serif;
+        color: #333333;
+        text-align: left;
+        line-height: normal;
+    }
+</style>
+<body>
+<main>
+<div id="übersicht-der-wartun">
+    <h2>Übersicht der Wartungsarbeiten</h2>
+</div>
+
+
+<div id="image">
+    <img src="normal_8.png">
+</div>
+
+
+
+</main>
+<footer>
+
+</footer>
+</body>
+</html>
